@@ -5,3 +5,5 @@ TEST...
 
 
 https://chadandj.github.io/chadandj-new/
+
+https://chadandj.github.io/ (legacy-site)
