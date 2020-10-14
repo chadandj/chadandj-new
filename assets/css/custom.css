@@ -17,6 +17,11 @@
 }
 
 .slide-1 {
+	background-image: url('../images/head/home_4_resize.jpg');
+}
+
+/*
+.slide-1 {
 	background-image: url('../images/head/home_1.jpg');
 }
 
@@ -31,6 +36,7 @@
 .slide-4 {
 	background-image: url('../images/head/home_4.jpg');
 }
+*/
 
 .about-top {
 	background-image: url('../images/head/about_top.jpg');
